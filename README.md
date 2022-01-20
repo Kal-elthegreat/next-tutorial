@@ -4,6 +4,7 @@ notes to self:
 
 **Setup**
 - create app w/ `npx create-next-app <app-name>`
+- `npm run dev` to spin up localhost
 
 
 **Routes**
